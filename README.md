@@ -1,0 +1,2 @@
+# global_superstore_powerbi_dashboard
+# Dashboard Screenshots  This folder contains screenshots of the four pages of the Global Superstore Business Intelligence Dashboard developed using Power BI.  ## Dashboard Pages  1. Executive Overview 2. Product and Profitability 3. Customer and Market 4. Shipping and Operations
